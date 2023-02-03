@@ -53,7 +53,7 @@ export function LaunchDetails() {
                                 </AspectRatio>
                             </Box>
                             <Box>
-                                <Link to={`/`}>
+                                <Link to={`/react-spacexmissions-app/`}>
                                     <Button colorScheme={'purple'} size='xs'>Back to list</Button>
                                 </Link>
                             </Box>

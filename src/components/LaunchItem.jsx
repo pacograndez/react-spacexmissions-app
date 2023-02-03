@@ -34,7 +34,7 @@ export function LaunchItem(launch) {
         </Box>
       </Flex>
       <Flex justify={'end'}>
-        <Link to={`/launch/${launch.flight_number}`}>
+        <Link to={`/react-spacexmissions-app/launch/${launch.flight_number}`}>
           <Button mt={2} colorScheme={'purple'} size='sm'>More Details</Button>
         </Link>
       </Flex>
